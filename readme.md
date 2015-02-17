@@ -1,3 +1,4 @@
+#Creative Project Folder Structure
 A simple project folder organization system for keeping creative projects organized.
 
 ##Usage
