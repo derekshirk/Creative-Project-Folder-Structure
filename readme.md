@@ -1,4 +1,11 @@
-A simple project folder organization system for keeping creative projects organized 
+A simple project folder organization system for keeping creative projects organized.
+
+##Usage
+This folder structure is a work in progress. 
+
+To clone this folder structure simply navigate to the directory you which use the project structure and paste this command:
+
+    git clone https://github.com/derekshirk/Creative-Project-Folder-Structure.git
 
 **folder structure**
 
@@ -21,9 +28,3 @@ A simple project folder organization system for keeping creative projects organi
     6 Code
     7 Backups
 
-
-This folder structure is a work in progress. 
-
-To clone this folder structure simply navigate to the directory you which use the project structure and paste this command:
-
-    git clone https://github.com/derekshirk/Creative-Project-Folder-Structure.git
